@@ -1,0 +1,8 @@
+drift_au_per_myr,librating_from_yr,librating_to_yr,horseshoe_from_yr,horseshoe_to_yr,horseshoe_at_run_start,horseshoe_at_run_end
++0e+00,-30000,25849,-30000,26437,True,False
++1e-03,-30000,14740,-30000,15407,True,False
+-1e-03,-30000,30000,-30000,30000,True,True
++3e-03,-30000,13168,-30000,13880,True,False
+-3e-03,-30000,30000,-30000,30000,True,True
++1e-02,-30000,13200,-30000,13770,True,False
+-1e-02,-30000,30000,-30000,30000,True,True

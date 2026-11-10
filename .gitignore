@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+# large raw simulation outputs and scratch areas (regenerate with the scripts)
+runs/
+quick/
+data/fresh/

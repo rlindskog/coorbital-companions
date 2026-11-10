@@ -1,0 +1,10 @@
+{
+ "object": "2026 LO4",
+ "horizons_solution": "JPL#1",
+ "n_dates": 37,
+ "first_year": 1600.008,
+ "last_year": 2499.992,
+ "max_abs_dlambda_deg": 3.259485833950748e-05,
+ "max_abs_da_au": 2.268144672079586e-09,
+ "max_abs_de": 2.1872262001565446e-08
+}

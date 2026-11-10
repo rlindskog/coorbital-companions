@@ -1,0 +1,10 @@
+# Versions the analysis was run with (Python 3.13). Nearby versions should also work.
+numpy==2.5.3
+rebound==5.2.2
+reboundx==5.1.0
+jplephem==2.24
+de421==2008.1
+matplotlib==3.11.2
+# optional
+requests==2.34.2      # only for scripts/fetch_data.py
+pytest==9.1.1         # only for the tests

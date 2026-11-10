@@ -1,0 +1,67 @@
+{
+ "object": "2025 ON9",
+ "span_years": 9000.0,
+ "epoch_year": 2026.4366872005476,
+ "run_from_yr": -9000.0,
+ "run_to_yr": 9000.0,
+ "phi_now_deg": 109.83972456959894,
+ "deg_ahead_of_planet_now": 109.83972456959894,
+ "librating": {
+  "start": -9000.0,
+  "end": 9000.0,
+  "period": 1748.0,
+  "at_run_start": true,
+  "at_run_end": true
+ },
+ "pure_horseshoe": {
+  "start": -9000.0,
+  "end": 9000.0,
+  "at_run_start": true,
+  "at_run_end": true,
+  "gap_ahead": 18.052851502470848,
+  "gap_behind": 17.969135866885892
+ },
+ "turning_points_near_now": [
+  {
+   "year": 47.43668720054757,
+   "deg_ahead_of_planet": 18.64032284541665
+  },
+  {
+   "year": 902.9366872005476,
+   "deg_ahead_of_planet": 342.0308641331141
+  },
+  {
+   "year": 1783.9366872005476,
+   "deg_ahead_of_planet": 18.307123237560216
+  },
+  {
+   "year": 2656.4366872005476,
+   "deg_ahead_of_planet": 341.6208301232461
+  },
+  {
+   "year": 3531.9366872005476,
+   "deg_ahead_of_planet": 18.052851502470848
+  },
+  {
+   "year": 4404.436687200548,
+   "deg_ahead_of_planet": 340.99014584689246
+  }
+ ],
+ "a_minus_a_planet_au": [
+  -0.002830642102662928,
+  0.002628707445943901
+ ],
+ "min_sampled_distance_to_planet": {
+  "au": 0.1255907628540101,
+  "year": 10361.936687200548
+ },
+ "e_range": [
+  0.20478545554908228,
+  0.21853430973998847
+ ],
+ "inclination_range_deg": [
+  2.6372966516037413,
+  4.175791898290784
+ ],
+ "n_lane_switches": 21
+}

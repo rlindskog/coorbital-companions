@@ -1,0 +1,10 @@
+{
+ "object": "2025 ON9",
+ "horizons_solution": "JPL#10",
+ "n_dates": 37,
+ "first_year": 1600.008,
+ "last_year": 2499.992,
+ "max_abs_dlambda_deg": 0.0006642324352412743,
+ "max_abs_da_au": 3.000180059942181e-08,
+ "max_abs_de": 3.048077396039517e-08
+}
