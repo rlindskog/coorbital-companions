@@ -100,7 +100,17 @@ data/
 results/               tables and summaries produced by the scripts
 figures/               the two figures above
 tests/                 fast checks of the building blocks
+.claude/skills/        the search procedure written up as a Claude Code skill
 ```
+
+## Running the search with Claude Code
+
+The procedure that found these two objects is written up as a skill in
+`.claude/skills/coorbital-asteroid-search/SKILL.md`. Open the repository in Claude Code and
+ask it to search a planet's co-orbital zone, or to check a particular asteroid. The skill
+covers fetching the candidate list, screening, the literature check, the validation steps
+and what may and may not be claimed. It has been tested on the Venus, Earth and Mars zones
+only, and the skill itself has not yet been run end to end from a fresh start.
 
 ## How it works, briefly
 
